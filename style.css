@@ -1,0 +1,43 @@
+header {
+    background-image: url(pattern.jpeg);
+    
+    font-size:33px;
+    font-weight:bold;
+    color:khaki;
+
+}
+* {
+    text-align: center;
+    font-family:Helvetica;
+}
+strong {
+    font-weight:bold;
+    color:blue;
+}
+#brushes {
+    font-weight:bold;
+    font-size:32px;
+    color:white;
+    background-color: mediumspringgreen;
+}
+#frames{
+    font-weight:bold;
+    font-size:32px;
+    color:white;
+    background-color: lightcoral;
+}
+#paint {
+    font-weight:bold;
+    font-size:32px;
+    color:white;
+    background-color: skyblue;
+}
+footer {
+    background-color: aliceblue;
+    color:brown;
+    font-family: Arial, Helvetica, sans-serif;
+    position: sticky;
+    width: 100%;
+    bottom: 0px;
+    padding: 5px 5px;
+}
